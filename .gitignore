@@ -35,5 +35,6 @@ Thumbs.db
 # IDE folders
 .idea/
 .vscode/
-.cursor/
+.cursor/*
+!.cursor/rules/
 .history/
